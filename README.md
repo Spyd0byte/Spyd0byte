@@ -9,9 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyd0byte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 - 👋 Hi, I’m Sp1d3r .
-- 👀 I’m interested in Cyber Security Analyst .
-- 🌱 I’m currently learning a lot of things🥵
-- 💞️ I’m looking to collaborate on google🤭
+- 👀 Cyber Security Analyst & DFIR ( Digital Forensics & Incidence Responder).
 - 📫 How to reach me : https://www.instagram.com/spydobyte.in   : DON'T ASK FOR UN-ETHICAL TASKS :
   
 ### ✍️ Random Dev Quote
