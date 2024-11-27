@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SPYDOBYTE;CYBER+SECURITY+RESEARCHER;DIGITAL+FORENSICS+INCIDENCE+RESPONDER ;RESEARCHER)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SPYDOBYTE;CYBER+SECURITY+RESEARCHER;DIGITAL+FORENSICS+INCIDENCE+RESPONDER+;RESEARCHER)](https://git.io/typing-svg)
 
 
 # 💻 Tech Stack:
