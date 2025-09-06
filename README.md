@@ -8,7 +8,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Spyd0byte&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spyd0byte&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👋 Hi, I’m Sp1d3r .
+- 👋 Hi, I’m Gaurav Pandey .
 - 👀 Cyber Security Analyst & DFIR ( Digital Forensics & Incidence Responder).
 - 📫 How to reach me : https://www.instagram.com/spydobyte   : DON'T ASK FOR UN-ETHICAL TASKS :
 - 🛡️ Open-source security tools & write-ups on VAPT, Pentesting, and Ethical Hacking.
