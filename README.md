@@ -10,7 +10,15 @@
 
 - 👋 Hi, I’m Sp1d3r .
 - 👀 Cyber Security Analyst & DFIR ( Digital Forensics & Incidence Responder).
-- 📫 How to reach me : https://www.instagram.com/spydobyte.in   : DON'T ASK FOR UN-ETHICAL TASKS :
+- 📫 How to reach me : https://www.instagram.com/spydobyte   : DON'T ASK FOR UN-ETHICAL TASKS :
+- 🛡️ Open-source security tools & write-ups on VAPT, Pentesting, and Ethical Hacking.
+🚀 Making cybersecurity knowledge accessible for everyone!
+📂 Explore projects, scripts, and resources:
+
+${Pen-testing automation} 
+${Recon & exploitation tools}
+${Capture the Flag (CTF) solutions}
+🔗 Follow for updates and new tools! 
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
